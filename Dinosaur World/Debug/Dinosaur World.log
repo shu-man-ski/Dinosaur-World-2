@@ -1,0 +1,48 @@
+﻿Сборка начата 31.01.2017 17:37:55.
+     1>Проект "C:\Users\dima-\Desktop\Курсач\Dinosaur World\Dinosaur World\Dinosaur World.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Progects\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(60): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(144): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(145): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(185): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(242): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(263): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(264): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(265): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(266): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(309): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(318): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(340): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(341): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(28): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(50): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(54): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(57): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(61): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(67): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(89): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(110): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(128): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(132): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(140): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(144): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\player.h(153): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\bullet.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\main.cpp(112): warning C4244: аргумент: преобразование "sf::Int32" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\main.cpp(130): warning C4244: аргумент: преобразование "sf::Int32" в "float", возможна потеря данных
+     1>c:\users\dima-\desktop\курсач\dinosaur world\dinosaur world\level.h(312): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dima-\Desktop\Курсач\Dinosaur World\Debug\Dinosaur World.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Progects\SFML-2.3.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dima-\Desktop\Курсач\Dinosaur World\Debug\Dinosaur World.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dima-\Desktop\Курсач\Dinosaur World\Debug\Dinosaur World.lib" /MACHINE:X86 Debug\main.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Dinosaur World.vcxproj -> C:\Users\dima-\Desktop\Курсач\Dinosaur World\Debug\Dinosaur World.exe
+     1>Сборка проекта "C:\Users\dima-\Desktop\Курсач\Dinosaur World\Dinosaur World\Dinosaur World.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.06
