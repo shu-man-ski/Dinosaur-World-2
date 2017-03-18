@@ -60,4 +60,4 @@ With SFML, your application can compile and run out of the box on the most commo
 SFML has official bindings for the C and .Net languages. And thanks to its active community, it is also available in many other languages such as Java, Ruby, Python, Go, and more.
 
 ## More information about SFML
-Information is available at http://www.sfml-dev.org/index.php/.
+Information is available at http://www.sfml-dev.org/index.php.
