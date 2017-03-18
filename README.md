@@ -5,7 +5,7 @@ SFML is a simple to use and portable API written in C++.
 
 ## Usage examples
 Here is a short example, to show you how simple it is to use SFML :
-```
+```Ñ++
 #include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
 
