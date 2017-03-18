@@ -1,4 +1,4 @@
-# Dinosaur-World-2
+# Dinosaur World 2 v0.05
 Reworked version of game Dinosaur World using C++ SFML.
 ![screenshot of sample](https://github.com/dima-shm/Dinosaur-World-2/blob/master/Dinosaur%20World/Data/Images/Menu/Background%20Menu.png)
 SFML is a simple to use and portable API written in C++.
