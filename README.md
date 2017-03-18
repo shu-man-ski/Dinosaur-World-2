@@ -3,7 +3,7 @@ Reworked version of game Dinosaur World using C++ SFML.
 ![screenshot of sample](https://github.com/dima-shm/Dinosaur-World-2/blob/master/Dinosaur%20World/Data/Images/Menu/Background%20Menu.png)
 SFML is a simple to use and portable API written in C++.
 
-## h2 Usage examples
+## Usage examples
 Here is a short example, to show you how simple it is to use SFML :
 ```
 #include <SFML/Audio.hpp>
@@ -53,11 +53,11 @@ int main()
 }
 ```
 
-## h2 Supported Platforms
-### h3 SFML is multi-platform
+## Supported Platforms
+### SFML is multi-platform
 With SFML, your application can compile and run out of the box on the most common operating systems: Windows, Linux, Mac OS X and soon Android & iOS.
-### h3 SFML is multi-language
+### SFML is multi-language
 SFML has official bindings for the C and .Net languages. And thanks to its active community, it is also available in many other languages such as Java, Ruby, Python, Go, and more.
 
-## h2 More information about SFML
+## More information about SFML
 Information is available at http://www.sfml-dev.org/index.php/.
